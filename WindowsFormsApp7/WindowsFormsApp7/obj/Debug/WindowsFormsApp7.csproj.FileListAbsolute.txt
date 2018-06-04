@@ -1,0 +1,9 @@
+c:\users\eakku\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+c:\users\eakku\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+c:\users\eakku\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+c:\users\eakku\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
+c:\users\eakku\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+c:\users\eakku\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.Cache
+c:\users\eakku\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+c:\users\eakku\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+c:\users\eakku\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb

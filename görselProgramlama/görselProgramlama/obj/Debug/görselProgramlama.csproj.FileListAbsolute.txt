@@ -1,0 +1,10 @@
+C:\Users\eakku\Source\Repos\görselProgramlama\görselProgramlama\bin\Debug\görselProgramlama.exe.config
+C:\Users\eakku\Source\Repos\görselProgramlama\görselProgramlama\bin\Debug\görselProgramlama.exe
+C:\Users\eakku\Source\Repos\görselProgramlama\görselProgramlama\bin\Debug\görselProgramlama.pdb
+C:\Users\eakku\Source\Repos\görselProgramlama\görselProgramlama\obj\Debug\görselProgramlama.csprojResolveAssemblyReference.cache
+C:\Users\eakku\Source\Repos\görselProgramlama\görselProgramlama\obj\Debug\görselProgramlama.Form1.resources
+C:\Users\eakku\Source\Repos\görselProgramlama\görselProgramlama\obj\Debug\görselProgramlama.Properties.Resources.resources
+C:\Users\eakku\Source\Repos\görselProgramlama\görselProgramlama\obj\Debug\görselProgramlama.csproj.GenerateResource.Cache
+C:\Users\eakku\Source\Repos\görselProgramlama\görselProgramlama\obj\Debug\görselProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\eakku\Source\Repos\görselProgramlama\görselProgramlama\obj\Debug\görselProgramlama.exe
+C:\Users\eakku\Source\Repos\görselProgramlama\görselProgramlama\obj\Debug\görselProgramlama.pdb

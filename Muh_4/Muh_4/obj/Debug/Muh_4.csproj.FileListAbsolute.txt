@@ -1,0 +1,10 @@
+C:\Users\eakku\Source\Repos\Muh_4\Muh_4\bin\Debug\Muh_4.exe.config
+C:\Users\eakku\Source\Repos\Muh_4\Muh_4\bin\Debug\Muh_4.exe
+C:\Users\eakku\Source\Repos\Muh_4\Muh_4\bin\Debug\Muh_4.pdb
+C:\Users\eakku\Source\Repos\Muh_4\Muh_4\obj\Debug\Muh_4.csprojResolveAssemblyReference.cache
+C:\Users\eakku\Source\Repos\Muh_4\Muh_4\obj\Debug\Muh_4.Form1.resources
+C:\Users\eakku\Source\Repos\Muh_4\Muh_4\obj\Debug\Muh_4.Properties.Resources.resources
+C:\Users\eakku\Source\Repos\Muh_4\Muh_4\obj\Debug\Muh_4.csproj.GenerateResource.cache
+C:\Users\eakku\Source\Repos\Muh_4\Muh_4\obj\Debug\Muh_4.csproj.CoreCompileInputs.cache
+C:\Users\eakku\Source\Repos\Muh_4\Muh_4\obj\Debug\Muh_4.exe
+C:\Users\eakku\Source\Repos\Muh_4\Muh_4\obj\Debug\Muh_4.pdb
